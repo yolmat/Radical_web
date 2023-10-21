@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+﻿# Radical web
 
-## Getting Started
+<h2>Radical WEB é um projeto voltado a criar um site para o Radical São Paulo.</h2>
 
-First, run the development server:
+<p>Esse repositorio foi criado para o desenvolvimento do front-end</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<h3>Tecnologias Usadas:</h3>
+<ul>
+  <li>Next.js</li>
+  <li>React.js</li>
+  <li>Styled Component</li>
+  <li>Axios</li>
+</ul>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<h2>Para iniciar o projeto:</h2>
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+<p>Dentro da pasta Radical_web abra o terminal e digite <strong>npm run dev</strong></p>
+<p>Assim o projeto vai iniciar no localhost:3000</p>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/89895630?s=400&u=9ed75406112ba398bd1cef0a8adc018a0f83b1e0&v=4" width="150px;" alt="Foto do Mateus Saraiva no GitHub"/><br>
+        <sub>
+          <b>Mateus Saraiva</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
