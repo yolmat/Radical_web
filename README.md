@@ -14,7 +14,7 @@
 
 <h2>Para iniciar o projeto:</h2>
 
-<p>Primeiramente instale todas as dependencias abrindo o terminal e digitando<strong>npm i</strong> na pasta raiz</p>
+<p>Primeiramente instale todas as dependencias abrindo o terminal e digitando <strong>npm i</strong> na pasta raiz</p>
 
 <p>Ainda dentro da pasta raiz abra o terminal e digite <strong>npm run dev</strong></p>
 <p>Assim o projeto vai iniciar no localhost:3000</p>
